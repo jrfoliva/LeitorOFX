@@ -1,0 +1,17 @@
+===========================================================
+ 
+Data: 05/06/24       Hora: 14:53:33
+Contexto de Ajuda: 0
+                   -> Erro interno do Programa
+Janela do Sistema: 236
+ 
+Erro ao importar os dados.Trying to    
+store a string of length 36 into a field
+that can only contain 20                
+ 
+Rastreamento:
+ 
+Chamado pelo: FLeiuraOFX
+Chamado pelo: checa_teclas
+Chamado pelo: FLeiuraOFX
+Chamado pelo: checa_teclas
